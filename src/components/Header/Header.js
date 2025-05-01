@@ -15,7 +15,7 @@ function Header() {
       <nav className="nav-links">
         <a href="/">Home</a>
         <a href="/products">Shop</a>
-        <a href="#">Contact</a>
+        <a href="/contact">Contact</a>
       </nav>
       <div className="cart-icon" onClick={toggleCart}>
         <FaShoppingCart size={24} />
